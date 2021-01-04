@@ -1,4 +1,4 @@
-bin
-.vs
-obj
-WorkerService1
+bin/
+.vs/
+obj/
+WorkerService1/
