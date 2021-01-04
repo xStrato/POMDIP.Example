@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POMDIP.Example.Navigation", "POMDIP.Example.Navigation\POMDIP.Example.Navigation.csproj", "{342C977E-CCE6-4C7F-B80D-5A164234B267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkerService1", "WorkerService1\WorkerService1.csproj", "{7EB9BDBB-8E44-4762-99B5-617165B3F27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{342C977E-CCE6-4C7F-B80D-5A164234B267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{342C977E-CCE6-4C7F-B80D-5A164234B267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{342C977E-CCE6-4C7F-B80D-5A164234B267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{342C977E-CCE6-4C7F-B80D-5A164234B267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB9BDBB-8E44-4762-99B5-617165B3F27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB9BDBB-8E44-4762-99B5-617165B3F27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB9BDBB-8E44-4762-99B5-617165B3F27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB9BDBB-8E44-4762-99B5-617165B3F27C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21B7FA3C-3FF9-4DDB-9FD1-30F669762DB2}
+	EndGlobalSection
+EndGlobal
